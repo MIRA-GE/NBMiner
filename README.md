@@ -9,13 +9,13 @@ https://www.gate.tv/signup/3749198
 https://accounts.binancezh.top/zh-CN/register?ref=WD1EQRFA
 
 火币huobi：
-https://www.huobi.sk/zh-cn/topic/double-reward/?invite_code=pcig2223&t=1628492225331
+https://www.huobi.gr/zh-cn/topic/double-reward/?invite_code=pcig2223&t=1628492225331
 
 欧易okex（cfx可用）：
-https://www.ouyi.run/join/6308183?src=from:android-share-referral_poster_default
-
-币赢交易所（ae币充值较快）：
-https://www.coinw.uk/app/agentRdgister.html?agentid=1200044&language=zh_CN
+https://www.ouyi.fit/join/6308183?src=from:android-share-referral_poster_default
 
 库币kucoin（ergo币可用）：
 https://www.kucoin.center/ucenter/signup?rcode=r3BAC6L
+
+币赢交易所：
+https://www.coinw.uk/app/agentRdgister.html?agentid=1200044&language=zh_CN
